@@ -1,5 +1,5 @@
 version: '3'
 services:
-  using-static-shared-lib:
+  using-shared-lib:
     build: .
-    image: mycpptutorial/using-static-shared-lib:1.0.0
+    image: mycpptutorial/using-shared-lib:1.0.0
